@@ -24,4 +24,4 @@ A sleek, full-stack Single Page Application (SPA) music streaming platform inspi
    git clone [https://github.com/yourusername/laravel-music.git](https://github.com/yourusername/laravel-music.git)
    cd laravel-music
 ![TechMusic Dashboard](./home.jpg)
-![TechMusic Dashboard](./admin.jpg)
+![TechMusic Admin](./admin.jpg)
